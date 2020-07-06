@@ -1,6 +1,9 @@
 .container{
     margin-bottom:100px;
+   
 }
+
+
 .orange-bg{
     background-color: #fceae8;
     border-radius: 10px;
@@ -49,10 +52,7 @@
 .card-footer{
     border-top:none;
 }
-.bag{
-    padding:150px 25px;
-    
-}
+
 #contact-us {
     height:300px;
     
@@ -63,3 +63,4 @@
 footer{
     text-align: center;
 }
+
